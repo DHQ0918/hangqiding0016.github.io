@@ -15,9 +15,9 @@ Hangqi Ding
 
 Ph.D. candidate
 
-[School of ArtificialAAAA Intelligence](https://sai.xidian.edu.cn/)
+[School of Artificial Intelligence](https://cs.xidian.edu.cn/index.htm/)
 
-[XidianAA University, China](https://www.xidian.edu.cn/)
+[Xidian University, China](https://www.xidian.edu.cn/)
 
 My Tutor: [Kai Wu](https://scholar.google.com.hk/citations?user=4zGSPzsAAAAJ&hl=zh-CN), [Jing Liu](https://faculty.xidian.edu.cn/LJ22/zh_CN/index.htm), [Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=zh-CN)
 
